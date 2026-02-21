@@ -29,16 +29,6 @@ p span.i1{
 	text-indent: -1em;
 }
 
-#chapter-1 q,
-#chapter-2 q,
-#chapter-19 q,
-#chapter-22 q,
-#chapter-28 q,
-#chapter-32 q,
-#chapter-33 q{
-	font-style: italic;
-}
-
 #chapter-33 blockquote{
 	font-variant: small-caps;
 	text-align: center;
