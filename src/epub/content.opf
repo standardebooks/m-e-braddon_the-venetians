@@ -32,43 +32,48 @@
 		<dc:subject id="subject-1">Venice (Italy) -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">sh2008113178</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A gentleman’s casual meal in a Venice cafe with a working class woman he’s just met turns deadly when her lover unexpectedly attacks, resulting in lifelong guilt entangled with secrecy, jealousy, vengeance, and love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;While enjoying Carnival in Venice, a gentleman named Vansittart meets a beautiful but working-class woman. They are enjoying a light-hearted meal in a cafe when her lover unexpectedly attacks. During the fight he seizes his newly purchased souvenir dagger and fatally stabs the unarmed attacker. He escapes, assumes a false identity, resolves to keep the incident secret for the rest of his life. Much later, in London he again encounters the woman he had met in Venice. She is in dire straits and he feels responsible for the welfare of her and her child born after he killed the father. He entreats her to keep his secret, then provides financial support for housing and voice education furthering her aspirations as a talented opera singer.&lt;/p&gt;
+			&lt;p&gt;Vansittart subsequently falls passionately in love with an impoverished girl with unsavory father and brother fled amidst ugly rumors. The romance is discouraged by his family, and it appears she is already involved with a wealthy man. Vansittart persists and eventually wins her. But, to his horror he learns the man he killed was her missing brother. He must keep the secret or she will surely leave him.&lt;/p&gt;
+			&lt;p&gt;Then, a fateful accidental meeting while boating on the Thames. The now successful opera singer from Venice is in an oncoming boat with the same wealthy man who had previously been involved with Vansittart’s wife, and who has since become infatuated with the singer. The singer recognizes Vansittart and overjoyed she adoringly greets him as the boats pass, alarming his wife and inflaming jealousy and distrust within her. Vansittart must remind the singer to keep the secret and goes to see her. The wealthy man sees them meet and concludes the singer is Vansittart’s mistress and her child was fathered by Vanisstart. He seeks vengeance against his perceived rival.&lt;/p&gt;
+			&lt;p&gt;Eventually Vansittart’s wife learns of these suspicions and goes to see the opera singer. She learns the child is not Vansittart’s, but instead her brother’s, who was killed in Venice by her husband. She banishes him. He flees to Africa, she travels about Europe but develops “consumption.” Learning it will be fatal, she resolves to forgive Vansittart before it is too late. He returns from Africa, and they are at last together again until she dies.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Venetians&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/m-e-braddon"&gt;M. E. Braddon’s&lt;/a&gt; later Victorian “sensation novels” combining romance and realism, the 19th century precursor to pulp fiction. The novel celebrates the vibrant culture of the arts and beauty of Venice, with delightful contemporary descriptions of Venice, London, as well as multiple English and European scenic locations.&lt;/p&gt;
+			&lt;p&gt;Published in three volumes by Simpkin, Marshall, Hamilton, Kent &amp;amp; Co. in &lt;time&gt;1893&lt;/time&gt;. It was serialized in several weeklies in &lt;time&gt;1892&lt;/time&gt;-&lt;time&gt;1894&lt;/time&gt; including Lady’s Pictorial which is mentioned several times in the novel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<!--Transcription-->
 		<dc:source>https://www.gutenberg.org/ebooks/74385</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<!--Internet Archive scans-->
+		<dc:source>https://archive.org/details/venetiansnovel00braduoft</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Venetians</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Venetians_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-e-braddon_the-venetians</meta>
 		<dc:creator id="author">M. E. Braddon</dc:creator>
 		<meta property="file-as" refines="#author">Braddon, M. E.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Mary Elizabeth Braddon</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/M._E._Braddon</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79066474</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Robert Frederick Blum</dc:contributor>
+		<meta property="file-as" refines="#artist">Blum, Robert Frederick</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Robert_Frederick_Blum</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/resources/instances/20092494</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Peter Becker</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Peter, Becker</meta>
+		<meta property="file-as" refines="#transcriber-1">Becker, Peter</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Hannah Wilson</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Hannah, Wilson</meta>
+		<meta property="file-as" refines="#transcriber-2">Wilson, Hannah</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Anonymous</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
