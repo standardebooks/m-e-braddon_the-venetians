@@ -2,10 +2,22 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+/* Begin letters */
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+/* End letters */
+
+/* Begin verse */
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -28,15 +40,12 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+/* End verse */
 
+/* for the grave marker */
 #chapter-33 blockquote{
 	font-variant: small-caps;
 	text-align: center;
-}
-
-footer{
-	margin-top: 1em;
-	text-align: right;
 }
 
 .telegram{
