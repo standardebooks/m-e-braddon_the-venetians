@@ -3,6 +3,14 @@
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
 /* Begin letters */
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+p[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
