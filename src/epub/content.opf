@@ -30,7 +30,7 @@
 		<dc:title id="title">The Venetians</dc:title>
 		<meta property="file-as" refines="#title">Venetians, The</meta>
 		<dc:subject id="subject-1">Venice (Italy) -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113178</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man is forced to kill his assailant and go on the run, resulting in lifelong guilt entangled with secrecy, jealousy, vengeance, and love.</dc:description>
