@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/m-e-braddon/the-venetians</dc:identifier>
 		<dc:date>2026-03-06T21:47:17Z</dc:date>
@@ -34,11 +34,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113178</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A man is forced to kill his assailant and go on the run, resulting in lifelong guilt entangled with secrecy, jealousy, vengeance, and love.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A man is forced to kill his assailant and go on the run, resulting in lifelong guilt entangled with secrecy, jealousy, vengeance, and love.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;While enjoying Carnival in Venice, a gentleman named Vansittart meets a beautiful working-class woman. They’re enjoying a light-hearted meal in a cafe when her jealous lover unexpectedly attacks—and Vansittart fatally stabs him. Vansittart escapes, assumes a false identity, and resolves to keep the incident secret for the rest of his life. This traumatic event sends Vansittart on a journey of redemption filled with secrecy, jealousy, vengeance, and love.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Venetians&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/m-e-braddon"&gt;M. E. Braddon’s&lt;/a&gt; later Victorian sensation novels, a form that combines romance and realism and is the 19th century precursor to modern-day pulp fiction. The novel celebrates the beauty of Venice and its vibrant culture of the arts, and includes delightful contemporary descriptions of Venice, London, and multiple scenic locations across England and Europe.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/74385</dc:source>
 		<dc:source>https://archive.org/details/venetiansnovel00braduoft</dc:source>
