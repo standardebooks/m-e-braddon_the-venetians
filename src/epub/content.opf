@@ -51,13 +51,13 @@
 		<dc:creator id="author">M. E. Braddon</dc:creator>
 		<meta property="file-as" refines="#author">Braddon, M. E.</meta>
 		<meta property="schema:alternateName" refines="#author">Mary Elizabeth Braddon</meta>
-		<link href="https://en.wikipedia.org/wiki/M._E._Braddon" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79066474.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Robert Frederick Blum</dc:contributor>
 		<meta property="file-as" refines="#artist">Blum, Robert Frederick</meta>
 		<link href="https://en.wikipedia.org/wiki/Robert_Frederick_Blum" refines="#artist" rel="schema:sameAs"/>
-		<link href="http://id.loc.gov/resources/instances/20092494" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no92019723.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Peter Becker</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Becker, Peter</meta>
